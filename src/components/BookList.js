@@ -23,7 +23,7 @@ class BookList extends React.Component {
                                         <h2 className="section-heading text-uppercase">BookFolio</h2>
                                         <h3 className="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
                                     <button type="button" className="btn btn-sm btn-info" style={{marginTop:'-70px'}}
-                                    onClick={changeTheme}>
+                                    onClick={changeTheme    }>
                                         Change Theme
                                         </button>
                                     </div>
